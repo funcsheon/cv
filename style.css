@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Lato", sans-serif;
+}
+
+.container{
+  position: relative;
+}
+
+.ad-photo{
+  width: 400px;
+  display: inline-block;
+  position: absolute;
+}
