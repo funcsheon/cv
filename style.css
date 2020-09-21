@@ -1,19 +1,27 @@
-*{
+  * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body{
+body {
   font-family: "Lato", sans-serif;
+  color: #505050;
 }
 
-.container{
+header {}
+
+h1 {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.container {
   position: relative;
 }
 
-.ad-photo{
-  width: 400px;
+.ad-photo {
+  width: 450px;
   display: inline-block;
   position: absolute;
 }
